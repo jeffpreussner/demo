@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "link": {
+    "name": "download",
+    "url": "/path/to/download.pdf"
+  }
+}
